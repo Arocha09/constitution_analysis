@@ -1,0 +1,193 @@
+doc_id,country_name,doc_year,doc_len
+Afghanistan_2004,Afghanistan,2004,66806
+Albania_2008,Albania,2008,86022
+Algeria_2008,Algeria,2008,66590
+Andorra_1993,Andorra,1993,55687
+Angola_2010,Angola,2010,175148
+Antigua_and_Barbuda_1981,Antigua and Barbuda,1981,214275
+Argentina_1994,Argentina,1994,82255
+Armenia_2005,Armenia,2005,86487
+Australia_1985,Australia,1985,81224
+Austria_2009,Austria,2009,275162
+Azerbaijan_2009,Azerbaijan,2009,110090
+Bahamas_2002,Bahamas,2002,227497
+Bahrain_2002,Bahrain,2002,66490
+Bangladesh_2011,Bangladesh,2011,158974
+Barbados_2007,Barbados,2007,199629
+Belarus_2004,Belarus,2004,85386
+Belgium_2012,Belgium,2012,103438
+Belize_2001,Belize,2001,235373
+Benin_1990,Benin,1990,70742
+Bhutan_2008,Bhutan,2008,84780
+Bolivia_2009,Bolivia,2009,269497
+Bosnia_Herzegovina_2009,Bosnia Herzegovina,2009,35128
+Botswana_2002,Botswana,2002,180775
+Brazil_2014,Brazil,2014,437141
+Brunei_1984,Brunei,1984,82463
+Bulgaria_2007,Bulgaria,2007,80415
+Burkina_Faso_2012,Burkina Faso,2012,63686
+Burundi_2005,Burundi,2005,114629
+Cambodia_1999,Cambodia,1999,54015
+Cameroon_2008,Cameroon,2008,54176
+Canada_2011,Canada,2011,127965
+Cape_Verde_1992,Cape Verde,1992,191071
+Central_African_Republic_2010,Central African Republic,2010,67780
+Chad_2005,Chad,2005,72620
+Chile_2012,Chile,2012,179529
+China_2004,China,2004,73882
+Colombia_2005,Colombia,2005,301158
+Comoros_2009,Comoros,2009,38632
+Congo_2001,Congo,2001,69926
+Costa_Rica_2011,Costa Rica,2011,108640
+Cote_DIvoire_2009,Cote DIvoire,2009,49874
+Croatia_2001,Croatia,2001,77749
+Cuba_2002,Cuba,2002,82260
+Cyprus_2013,Cyprus,2013,215971
+Czech_Republic_2002,Czech Republic,2002,90005
+Democratic_Republic_of_the_Congo_2011,Democratic Republic of the Congo,2011,129792
+Denmark_1953,Denmark,1953,36816
+Djibouti_2010,Djibouti,2010,40215
+Dominica_1984,Dominica,1984,211553
+Dominican_Republic_2010,Dominican Republic,2010,187809
+East_Timor_2002,East Timor,2002,99395
+Ecuador_2008,Ecuador,2008,370379
+Egypt_2014,Egypt,2014,132906
+El_Salvador_2003,El Salvador,2003,147594
+Equatorial_Guinea_1995,Equatorial Guinea,1995,35600
+Eritrea_1997,Eritrea,1997,42976
+Estonia_2003,Estonia,2003,70192
+Ethiopia_1994,Ethiopia,1994,87381
+Fiji_2013,Fiji,2013,276068
+Finland_2011,Finland,2011,82484
+France_2008,France,2008,90197
+Gabon_1997,Gabon,1997,74525
+Gambia_2004,Gambia,2004,249538
+Georgia_2004,Georgia,2004,95297
+German_Federal_Republic_2012,German Federal Republic,2012,175294
+Ghana_1996,Ghana,1996,330586
+Greece_2008,Greece,2008,169583
+Grenada_1992,Grenada,1992,190118
+Guatemala_1993,Guatemala,1993,195943
+Guinea_2010,Guinea,2010,80168
+Guinea_Bissau_1991,Guinea Bissau,1991,50694
+Guyana_1995,Guyana,1995,256662
+Haiti_2012,Haiti,2012,126039
+Honduras_2012,Honduras,2012,167332
+Hungary_2011,Hungary,2011,96078
+Iceland_1999,Iceland,1999,25334
+India_2012,India,2012,616928
+Indonesia_2002,Indonesia,2002,37591
+Iran_1989,Iran,1989,102919
+Iraq_2005,Iraq,2005,75873
+Ireland_2012,Ireland,2012,94835
+Israel_2013,Israel,2013,108724
+Italy_2012,Italy,2012,74228
+Jamaica_1994,Jamaica,1994,224354
+Japan_1946,Japan,1946,31269
+Jordan_2011,Jordan,2011,62163
+Kazakhstan_1998,Kazakhstan,1998,87391
+Kenya_2010,Kenya,2010,300677
+Kiribati_1995,Kiribati,1995,154936
+Kosovo_2008,Kosovo,2008,128022
+Kuwait_1992,Kuwait,1992,52620
+Kyrgyz_Republic_2010,Kyrgyz Republic,2010,90313
+Laos_2003,Laos,2003,41664
+Latvia_2007,Latvia,2007,29797
+Lebanon_2004,Lebanon,2004,39610
+Lesotho_1998,Lesotho,1998,250078
+Liberia_1986,Liberia,1986,73349
+Libya_2011,Libya,2011,18926
+Liechtenstein_2003,Liechtenstein,2003,58465
+Lithuania_2006,Lithuania,2006,88146
+Luxembourg_2009,Luxembourg,2009,37792
+Macedonia_2011,Macedonia,2011,84882
+Madagascar_2010,Madagascar,2010,94440
+Malawi_1999,Malawi,1999,203337
+Malaysia_1996,Malaysia,1996,378646
+Maldives_2008,Maldives,2008,151966
+Mali_1992,Mali,1992,48641
+Malta_2011,Malta,2011,188844
+Marshall_Islands_1995,Marshall Islands,1995,127289
+Mauritania_2012,Mauritania,2012,47862
+Mauritius_2011,Mauritius,2011,221199
+Mexico_2007,Mexico,2007,320436
+Micronesia_1990,Micronesia,1990,32968
+Moldova_2006,Moldova,2006,82192
+Monaco_2002,Monaco,2002,28323
+Mongolia_2001,Mongolia,2001,59793
+Montenegro_2007,Montenegro,2007,73372
+Morocco_2011,Morocco,2011,103049
+Mozambique_2007,Mozambique,2007,155802
+Myanmar_2008,Myanmar,2008,254443
+Namibia_2010,Namibia,2010,150207
+Nauru_1968,Nauru,1968,80562
+Nepal_2010,Nepal,2010,243299
+Netherlands_2008,Netherlands,2008,57021
+Nicaragua_2005,Nicaragua,2005,122015
+Niger_2010,Niger,2010,90177
+Nigeria_1999,Nigeria,1999,382748
+Norway_2004,Norway,2004,44949
+Oman_2011,Oman,2011,47640
+Pakistan_2012,Pakistan,2012,349926
+Palau_1992,Palau,1992,49072
+Panama_2004,Panama,2004,167385
+Papua_New_Guinea_1991,Papua New Guinea,1991,339782
+Paraguay_2011,Paraguay,2011,178431
+Peoples_Republic_of_Korea_1998,Peoples Republic of Korea,1998,48762
+Peru_2009,Peru,2009,119288
+Philippines_1987,Philippines,1987,140102
+Poland_1997,Poland,1997,126303
+Portugal_2005,Portugal,2005,232710
+Qatar_2003,Qatar,2003,43237
+Republic_of_Korea_1987,Republic of Korea,1987,58134
+Romania_2003,Romania,2003,93431
+Russia_2008,Russia,2008,88793
+Rwanda_2010,Rwanda,2010,113015
+Samoa_2010,Samoa,2010,107123
+Sao_Tome_and_Principe_1990,Sao Tome and Principe,1990,50668
+Saudi_Arabia_2005,Saudi Arabia,2005,42463
+Senegal_2009,Senegal,2009,64805
+Serbia_2006,Serbia,2006,128606
+Seychelles_2011,Seychelles,2011,231635
+Sierra_Leone_2008,Sierra Leone,2008,269006
+Singapore_2010,Singapore,2010,264179
+Slovakia_2001,Slovakia,2001,114079
+Slovenia_2006,Slovenia,2006,81483
+Socialist_Republic_of_Vietnam_2001,Socialist Republic of Vietnam,2001,78342
+Solomon_Islands_2009,Solomon Islands,2009,201422
+Somalia_2012,Somalia,2012,135564
+South_Africa_2012,South Africa,2012,288626
+South_Sudan_2011,South Sudan,2011,175892
+Spain_2011,Spain,2011,116082
+Sri_Lanka_2010,Sri Lanka,2010,363222
+St_Kitts_and_Nevis_1983,St Kitts and Nevis,1983,276692
+St_Lucia_1978,St Lucia,1978,234087
+St_Vincent_and_the_Grenadines_1979,St Vincent and the Grenadines,1979,194874
+Sudan_2005,Sudan,2005,176612
+Surinam_1992,Surinam,1992,79981
+Swaziland_2005,Swaziland,2005,295246
+Sweden_2012,Sweden,2012,367078
+Switzerland_2002,Switzerland,2002,111630
+Syria_2012,Syria,2012,51756
+Taiwan_2005,Taiwan,2005,72496
+Tajikistan_2003,Tajikistan,2003,51680
+Tanzania_1995,Tanzania,1995,206780
+Thailand_2007,Thailand,2007,276741
+Togo_2007,Togo,2007,66419
+Tonga_1988,Tonga,1988,54512
+Trinidad_and_Tobago_2007,Trinidad and Tobago,2007,192411
+Tunisia_2014,Tunisia,2014,84873
+Turkey_2002,Turkey,2002,189628
+Turkmenistan_2008,Turkmenistan,2008,39971
+Tuvalu_1986,Tuvalu,1986,209499
+Uganda_2005,Uganda,2005,313992
+Ukraine_2004,Ukraine,2004,122814
+United_Arab_Emirates_2004,United Arab Emirates,2004,71113
+United_States_of_America_1992,United States of America,1992,45800
+Uruguay_2004,Uruguay,2004,191542
+Uzbekistan_1992,Uzbekistan,1992,51676
+Vanuatu_1983,Vanuatu,1983,52183
+Venezuela_2009,Venezuela,2009,240449
+Yemen_2001,Yemen,2001,68130
+Zambia_2009,Zambia,2009,181924
+Zimbabwe_2013,Zimbabwe,2013,348577
