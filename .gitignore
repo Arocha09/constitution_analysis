@@ -208,5 +208,7 @@ __marimo__/
 
 
 /data
+/derived_tables
+
 
 tokens_table.csv
