@@ -216,4 +216,11 @@ __marimo__/
 /models
 
 
+
 tokens_table.csv
+
+parsed_data/const_LIB.csv
+
+parsed_data/const_TOKEN.csv
+
+parsed_data/const_VOCAB.csv
