@@ -1,6 +1,0 @@
-,anger,anger,anticipation,anticipation,disgust,disgust,fear,fear,joy,joy,sadness,sadness,surprise,surprise,trust,trust,sentiment,sentiment,electoral_democracy,electoral_democracy,n_tokens,n_tokens
-,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
-democracy_tier,,,,,,,,,,,,,,,,,,,,,,
-Autocracy,0.148,0.04,0.408,0.065,0.057,0.025,0.229,0.054,0.308,0.066,0.108,0.027,0.072,0.02,0.669,0.064,0.537,0.109,0.2,0.076,17051.702,13978.957
-Hybrid,0.17,0.035,0.378,0.049,0.063,0.022,0.259,0.052,0.265,0.063,0.121,0.021,0.068,0.017,0.628,0.051,0.475,0.086,0.487,0.094,28421.898,18469.586
-Democracy,0.164,0.038,0.395,0.064,0.063,0.026,0.253,0.058,0.302,0.078,0.138,0.043,0.081,0.033,0.625,0.066,0.462,0.097,0.821,0.075,20772.259,13608.469

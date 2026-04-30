@@ -208,7 +208,12 @@ __marimo__/
 
 
 /data
+
 /derived_tables
+
+/parsed_data
+
+/models
 
 
 tokens_table.csv
